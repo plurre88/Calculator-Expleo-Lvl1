@@ -1,0 +1,13 @@
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\bin\Debug\netcoreapp3.1\Calculator-1.exe
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\bin\Debug\netcoreapp3.1\Calculator-1.deps.json
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\bin\Debug\netcoreapp3.1\Calculator-1.runtimeconfig.json
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\bin\Debug\netcoreapp3.1\Calculator-1.runtimeconfig.dev.json
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\bin\Debug\netcoreapp3.1\Calculator-1.dll
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\bin\Debug\netcoreapp3.1\Calculator-1.pdb
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\obj\Debug\netcoreapp3.1\Calculator-1.csprojAssemblyReference.cache
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\obj\Debug\netcoreapp3.1\Calculator-1.AssemblyInfoInputs.cache
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\obj\Debug\netcoreapp3.1\Calculator-1.AssemblyInfo.cs
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\obj\Debug\netcoreapp3.1\Calculator-1.csproj.CoreCompileInputs.cache
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\obj\Debug\netcoreapp3.1\Calculator-1.dll
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\obj\Debug\netcoreapp3.1\Calculator-1.pdb
+C:\Users\johan\OneDrive\Skrivbord\GitHub\Calculator-Expleo-Lvl1\Calculator-1\obj\Debug\netcoreapp3.1\Calculator-1.genruntimeconfig.cache
